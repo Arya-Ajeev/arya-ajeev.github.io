@@ -67,11 +67,11 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/parthan-olikkal/"
+      url: "www.linkedin.com/in/arya-ajeev"
 
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"   # Workaround icon
-      url: "https://scholar.google.com/citations?user=your_id&user=A7I6gMgAAAAJ"
+      url: "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C20&as_ylo=2025&q=arya+ajeev&oq=Arya+"
 
     - label: "GitHub"
       icon: "fab fa-github"
