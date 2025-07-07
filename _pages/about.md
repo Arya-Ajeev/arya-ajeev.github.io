@@ -14,11 +14,12 @@ sidebar:
 I am a Ph.D. Candidate at the <a href="https://umbc.edu/" target="_blank"><strong>University of Maryland Baltimore County</strong></a>, advised by <a href="https://www.csee.umbc.edu/ramana-vinjamuri/" target="_blank">Dr. Ramana Vinjamuri</a>. My research lies at the intersection of <strong>Brain-Computer Interfaces, Reinforcement Learning and Robotics </strong>. I build real-time adaptive pipelines for motor intent decoding using EEG and EMG signals, with applications in assistive technologies, rehabilitation, and neuroadaptive gaming.
 </p>
 
-Before joining UMBC, I worked on gesture decoding systems for prosthetics and interactive virtual environments. My work emphasizes synergy-driven analysis, multimodal control, and human-in-the-loop reinforcement learning.
+In Summer 2023, I worked as an intern again at <a href="https://www.mathworks.com/" target="_blank"><strong>MathWorks</strong></a> working with Parallel Code Generation Team. In Summer 2022, I interned at <a href="https://www.mathworks.com/" target="_blank"><strong>MathWorks</strong></a> in Domain Specific Code Generation Team.
 </div>
 
-📄 Download my [**CV**](/assets/docs/Parthan_CV.pdf)
-
+<a style="font-size: 0.9em;">
+  📄 Download my <strong><a href="/assets/docs/Parthan_CV.pdf">CV</a></strong>
+</a>
 
 <hr>
 
@@ -170,11 +171,17 @@ Before joining UMBC, I worked on gesture decoding systems for prosthetics and in
   </div>
 </div>
 
+
+<div style="text-align: right; margin-top: 2rem; margin-bottom: 1rem;">
+  <a href="/publication/" style="font-weight: bold; text-decoration: underline; font-size: 1em; color: #007acc;">
+    → See full publications
+  </a>
+</div>
 ---
 
 <h2 id="projects">Projects</h2> 
 
-## Humanoid Control using RGB camera
+<h3 id="projects">Humanoid Control using RGB camera</h3>  
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;
             border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; background: #fafafa; font-size: 0.9em;
