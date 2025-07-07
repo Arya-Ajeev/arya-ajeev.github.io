@@ -59,11 +59,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Arya Olikkal"
+  name   : "Arya Ajeev"
   avatar : "/assets/images/Parthan_Pic.jpeg"
-  bio    : "Ph.D. Candidate @ UMBC"
-  location: "Baltimore, MD"
-  email : "polikka1@umbc.edu"
+  bio    : "Ph.D. Candidate @ University of Maine"
+  location: "Orono, Maine"
+  email : "arya.ajeeva@maine.edu"
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
