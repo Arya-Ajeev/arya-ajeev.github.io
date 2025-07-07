@@ -71,7 +71,7 @@ author:
 
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"   # Workaround icon
-      url: "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C20&as_ylo=2025&q=arya+ajeev&oq=Arya+"
+      url: "https://scholar.google.com/citations?user=1gaYuDYAAAAJ&hl=en"
 
     - label: "GitHub"
       icon: "fab fa-github"
