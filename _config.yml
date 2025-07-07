@@ -67,7 +67,7 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "www.linkedin.com/in/arya-ajeev"
+      url: "https://www.linkedin.com/in/arya-ajeev/"
 
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"   # Workaround icon
