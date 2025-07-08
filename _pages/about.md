@@ -25,11 +25,11 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
   <div style="flex: 1; min-width: 250px;">
     <h3>Interests</h3>
     <ul>
-      <li>Brain-Computer Interfaces</li>
-      <li>Reinforcement Learning</li>
-      <li>EMG and EEG-based motor decoding</li>
-      <li>Human-Robot Interaction</li>
-      <li>Motion & Synergy Analysis</li>
+      <li>Wearable Sensors</li>
+      <li>Conducting Polymers</li>
+      <li>Small-Molecule Dopants</li>
+      <li>In-situ Polymerization</li>
+      <li>Self-healing Polymers</li>
     </ul>
   </div>
 
