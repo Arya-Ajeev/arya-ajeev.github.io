@@ -54,7 +54,36 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
 </div>
 
 ---
+<h2 id="projects">Projects</h2> 
 
+<h3 id="projects">Humanoid Control using RGB camera</h3>  
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;
+            border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; background: #fafafa; font-size: 0.9em;
+            transition: transform 0.2s ease-in-out; box-shadow: 0 0 0 transparent;"
+     onmouseover="this.style.transform='scale(1.015)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.1)'"
+     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 0 transparent'">
+
+
+  <!-- LEFT: Video -->
+  <div style="flex: 1 1 350px; min-width: 300px;">
+    <img src="/assets/video/Mitra_Mirroring.gif" alt="Gesture Control Demo" style="width: 100%; border-radius: 8px;">
+  </div>
+
+  <!-- RIGHT: Text -->
+  <div style="flex: 2 1 400px; min-width: 250px; font-size: 0.9em;">
+    <p>
+      This project demonstrates real-time synergy-based control of a humanoid robot (Mitra) using reconstructed hand gestures.
+      Using a single RGB camera and the MediaPipe framework, 33 static hand gestures were captured and processed into joint angular velocities.
+      Dimensionality reduction techniques helped extract key kinematic synergies, which were used to reconstruct hand postures with 95.7% accuracy.
+    </p>
+    <p>
+      The resulting synergy-driven control commands were mapped to Mitra’s actuators in real time, showing promise for intuitive human-robot collaboration in rehabilitation and assistive robotics.
+    </p>
+
+  </div>
+
+  
 <h2 id="publications">Publications</h2>
 
 <a href="/publication/olikkal2024robio" style="text-decoration: none; color: inherit;" target="_blank">
@@ -85,8 +114,7 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
     <p style="color: #555;font-style:0.8em">
       This study presents a Transformer-based deep learning approach that integrates EEG and EMG signals to enhance upper limb motor control for rehabilitation. Ten able-bodied subjects performed center-out tasks of varying complexity, with simultaneous EEG, EMG, and 2D kinematic data collection. The fused signals enabled the model to achieve 87.27% accuracy across all levels and control a humanoid robot to replicate movements. The results demonstrate the effectiveness of EEG-EMG fusion in improving precision and performance in BCI-driven assistive and neurorehabilitation technologies.
     </p>
-
-
+---
 
 <!-- Button Group -->
 <div class="btn-links" style="margin-top: 1rem; font-size:1em;">
@@ -176,34 +204,6 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
 </div>
 ---
 
-<h2 id="projects">Projects</h2> 
-
-<h3 id="projects">Humanoid Control using RGB camera</h3>  
-
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;
-            border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; background: #fafafa; font-size: 0.9em;
-            transition: transform 0.2s ease-in-out; box-shadow: 0 0 0 transparent;"
-     onmouseover="this.style.transform='scale(1.015)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.1)'"
-     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 0 transparent'">
-
-
-  <!-- LEFT: Video -->
-  <div style="flex: 1 1 350px; min-width: 300px;">
-    <img src="/assets/video/Mitra_Mirroring.gif" alt="Gesture Control Demo" style="width: 100%; border-radius: 8px;">
-  </div>
-
-  <!-- RIGHT: Text -->
-  <div style="flex: 2 1 400px; min-width: 250px; font-size: 0.9em;">
-    <p>
-      This project demonstrates real-time synergy-based control of a humanoid robot (Mitra) using reconstructed hand gestures.
-      Using a single RGB camera and the MediaPipe framework, 33 static hand gestures were captured and processed into joint angular velocities.
-      Dimensionality reduction techniques helped extract key kinematic synergies, which were used to reconstruct hand postures with 95.7% accuracy.
-    </p>
-    <p>
-      The resulting synergy-driven control commands were mapped to Mitra’s actuators in real time, showing promise for intuitive human-robot collaboration in rehabilitation and assistive robotics.
-    </p>
-
-  </div>
 
 </div>
 
