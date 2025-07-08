@@ -36,17 +36,17 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
 <div style="flex: 1; min-width: 250px;">
   <h3>Education</h3>
   <ul>
-    <li>🎓 <strong>Ph.D. in Computer Science</strong> (Present)<br>
+    <li>🎓 <strong>Ph.D. in Chemical Engineering</strong> (Present)<br>
         <span style="font-size: 0.8em;">
-        University of Maryland, Baltimore County
+        University of Maine, Penobscot County
         </span></li>
-    <li>🎓 <strong>M.S. in Computer Science</strong>, 2021<br>
+    <li>🎓 <strong>M.Tech in Polymer Technology</strong>, 2022<br>
         <span style="font-size: 0.8em;">
-        University of Maryland, Baltimore County
+        Cochin University of Science & Technology, Cochin, India
         </span></li>
-    <li>🎓 <strong>B.Tech in Computer Science</strong>, 2017<br>
+    <li>🎓 <strong>B.Tech in Polymer Engineering</strong>, 2020<br>
         <span style="font-size:0.8em;">
-        Cochin University of Science and Technology
+       Mahathma Gandhi University, Kerala, India
         </span></li>
   </ul>
 </div>
