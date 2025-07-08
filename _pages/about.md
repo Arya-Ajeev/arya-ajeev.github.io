@@ -11,7 +11,7 @@ sidebar:
 <h2>Biography</h2>
 <div style="font-size:0.9em;">
 <p>
-I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><strong>University of Maine, Penobscot County</strong></a>, advised by <a href="https://umaine.edu/chb/facultystaff/evan-k-wujcik/" target="_blank">Dr. Evan K Wujcik</a>. My research lies at the intersection of <strong>Brain-Computer Interfaces, Reinforcement Learning and Robotics </strong>. I build real-time adaptive pipelines for motor intent decoding using EEG and EMG signals, with applications in assistive technologies, rehabilitation, and neuroadaptive gaming.
+I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><strong>University of Maine, Penobscot County</strong></a>, advised by <a href="https://umaine.edu/chb/facultystaff/evan-k-wujcik/" target="_blank">Dr. Evan K Wujcik</a>.My research explores the structure–property relationships between small-molecule dopants and polyaniline, with a focus on how functional groups—such as sulfonic, phosphoric, and carboxylic acids—influence the electrical, mechanical, and self-healing properties of the resulting materials.
 </p>
 
 In Summer 2023, I worked as an intern again at <a href="https://www.mathworks.com/" target="_blank"><strong>MathWorks</strong></a> working with Parallel Code Generation Team. In Summer 2022, I interned at <a href="https://www.mathworks.com/" target="_blank"><strong>MathWorks</strong></a> in Domain Specific Code Generation Team.
