@@ -15,7 +15,7 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
 </p>
 
 <a style="font-size: 0.9em;">
-  📄 Download my <strong><a href="/assets/docs/Parthan_CV.pdf">CV</a></strong>
+  📄 Download my <strong><a href="/assets/docs/Arya Resume- 2025.pdf">Resume</a></strong>
 </a>
 
 <hr>
