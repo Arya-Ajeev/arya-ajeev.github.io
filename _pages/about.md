@@ -160,7 +160,7 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
     <div style="margin-top: 8px;"> 
     </div>
   </div>
-  <!-- Publication 6 -->
+  <!-- Publication 7 -->
   <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
     <div style="font-weight: bold; font-size: 1.05em;">) Sustainable and Reprocessable Carboxylic Acid-Doped Polyaniline Electroconductive Films with Rapid Environmental Degradation ) </div>
     <div style="margin-top: 4px;"><strong>Arya Ajeev</strong>,Theodore Warfle, and Evan K. Wujcik</div>
