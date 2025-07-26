@@ -48,7 +48,7 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
         </span></li>
     <li>🎓 <strong>B.Tech in Polymer Engineering</strong>, 2020<br>
         <span style="font-size:0.8em;">
-       <a href="https://psrt.cusat.ac.in/" target="_blank">Mahathma Gandhi University, Kerala, India
+       <a href="https://spst.mgu.ac.in/" target="_blank">Mahathma Gandhi University, Kerala, India
         </span></li>
   </ul>
 </div>
