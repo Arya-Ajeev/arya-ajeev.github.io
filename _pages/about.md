@@ -42,9 +42,9 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
     <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
       <li style="margin-bottom: 1em;">
         🎓 <strong>Ph.D. in Chemical Engineering</strong> (Present)<br>
-        <a href="https://umaine.edu/chb/home/graduate-programs/" target="_blank" style="text-decoration: none; color: blue;">
-          University of Maine, Penobscot County
-        </a>
+       <a href="https://umaine.edu/chb/home/graduate-programs/" target="_blank" style="text-decoration: none; color: blue;">
+  University of Maine, Penobscot County
+</a>
       </li>
       <li style="margin-bottom: 1em;">
         🎓 <strong>M.Tech in Polymer Technology</strong>, 2022<br>
