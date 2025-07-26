@@ -38,6 +38,7 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
 <div style="flex: 1; min-width: 250px;">
   <h3>Education</h3>
   <ul>
+      <li style="margin-bottom: 1em;">
     🎓 <strong>Ph.D. in Chemical Engineering</strong> (Present)<br>
     <a href="https://umaine.edu/chb/home/graduate-programs/" target="_blank" style="text-decoration: none; color: #555;">
       University of Maine, Penobscot County
