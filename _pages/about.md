@@ -111,7 +111,7 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
   <!-- Publication 1 -->
   <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
     <div style="font-weight: bold; font-size: 1.05em;">Ultrahigh sensitive carbon‐based conducting rubbers for flexible and wearable human–machine intelligence sensing</div>
-    <div style="margin-top: 4px;"><strong>Ajeev, Arya</strong>, Javaregowda, Bharathkumar H and Ali, Ashik and Modak, Mrudul and Patil, Shreya and Khatua, Saumyakanta and Ramadoss, Marimuthu and Kothavade, Premkumar Anil and Arulraj, Arul Kashmir</div>
+    <div style="margin-top: 4px;"><strong>Arya Ajeev</strong> Bharathkumar H. Javaregowda, Ashik Ali, Mrudul Modak, Shreya Patil, Saumyakanta Khatua, Marimuthu Ramadoss, Premkumar Anil Kothavade, and Arul Kashmir Arulraj. </div>
     <div style="font-style: italic; color: #555; margin-top: 4px;">Advanced Materials Technologies, 2020</div>
     <div style="margin-top: 8px;">
      <a href="https://doi.org/10.1002/admt.202000690" target="_blank" style="margin-right: 1rem; color: #007bff; text-decoration: none;">DOI</a>
@@ -120,13 +120,11 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
 
   <!-- Publication 2 -->
   <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
-    <div style="font-weight: bold; font-size: 1.05em;">Enhancing prosthetic hand control: A synergistic multi-channel electroencephalogram</div>
-    <div style="margin-top: 4px;">Pooya Chanu Maibam, Dingyi Pei, <strong>Parthan Olikkal</strong>, Ramana Kumar Vinjamuri, Nayan M Kakoty</div>
-    <div style="font-style: italic; color: #555; margin-top: 4px;">Wearable Technologies, 2022</div>
+    <div style="font-weight: bold; font-size: 1.05em;">Flexible paper-based room-temperature acetone sensors with ultrafast regeneration</div>
+    <div style="margin-top: 4px;">Davis, Disiya, Swathi Krishna Narayanan, <strong>Arya Ajeev</strong>, Jayashree Nair, Jithin Jeeji, Ananthu Vijayan, Midhun Viyyur Kuttyadi, Arun Nelliparambil Sathian, and Arul Kashmir Arulraj</div>
+    <div style="font-style: italic; color: #555; margin-top: 4px;">Advanced Materials Technologies, 2020</div>
     <div style="margin-top: 8px;">
-      <a href="#" style="margin-right: 1rem; color: #007bff; text-decoration: none;">DOI</a>
-      <a href="#" style="margin-right: 1rem; color: #007bff; text-decoration: none;">Cite</a>
-      <a href="#" style="color: #007bff; text-decoration: none;">Code</a>
+     <a href="https://doi.org/10.1002/admt.202000690" target="_blank" style="margin-right: 1rem; color: #007bff; text-decoration: none;">DOI</a>
     </div>
   </div>
 
