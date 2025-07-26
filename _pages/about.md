@@ -124,12 +124,19 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
     <div style="margin-top: 4px;">Davis, Disiya, Swathi Krishna Narayanan, <strong>Arya Ajeev</strong>, Jayashree Nair, Jithin Jeeji, Ananthu Vijayan, Midhun Viyyur Kuttyadi, Arun Nelliparambil Sathian, and Arul Kashmir Arulraj</div>
     <div style="font-style: italic; color: #555; margin-top: 4px;">Advanced Materials Technologies, 2020</div>
     <div style="margin-top: 8px;">
-     <a href="https://doi.org/10.1002/admt.202000690" target="_blank" style="margin-right: 1rem; color: #007bff; text-decoration: none;">DOI</a>
+     <a href="https://doi.org/10.1021/acsami.2c21712" target="_blank" style="margin-right: 1rem; color: #007bff; text-decoration: none;">DOI</a>
     </div>
   </div>
-
-  <!-- Repeat for more publications -->
-</div>
+ <!-- Publication 3 -->
+  <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
+    <div style="font-weight: bold; font-size: 1.05em;">From the synthesis of wearable polymer sensors to their potential for reuse and ultimate fate</div>
+    <div style="margin-top: 4px;"><strong>Arya Ajeev</strong>, Theodore Warfle, Sara Maslaczynska-Salome, Saeideh Alipoori, Colton Duprey, and Evan K. Wujcik</div>
+    <div style="font-style: italic; color: #555; margin-top: 4px;">Advanced Materials Technologies, 2020</div>
+    <div style="margin-top: 8px;">
+     <a href="https://doi.org/10.1039/D5SC01634G" target="_blank" style="margin-right: 1rem; color: #007bff; text-decoration: none;">DOI</a>
+    </div>
+  </div>
+ 
 
 
 ---
