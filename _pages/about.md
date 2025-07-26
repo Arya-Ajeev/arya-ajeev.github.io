@@ -22,11 +22,12 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
 
 <hr>
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; justify-content: space-between; font-size:0.9em">
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; justify-content: space-between; font-size: 0.9em; font-family: sans-serif;">
 
+  <!-- Interests Section -->
   <div style="flex: 1; min-width: 250px;">
-    <h3>Interests</h3>
-    <ul>
+    <h3><strong>Interests</strong></h3>
+    <ul style="margin: 0; padding-left: 20px;">
       <li>Wearable Sensors</li>
       <li>Conducting Polymers</li>
       <li>Small-Molecule Dopants</li>
@@ -35,28 +36,31 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
     </ul>
   </div>
 
-<div style="flex: 1; min-width: 250px;">
-  <h3>Education</h3>
-  <ul>
+  <!-- Education Section -->
+  <div style="flex: 1; min-width: 250px;">
+    <h3><strong>Education</strong></h3>
+    <ul style="list-style-type: disc; padding-left: 20px; margin: 0;">
       <li style="margin-bottom: 1em;">
-    🎓 <strong>Ph.D. in Chemical Engineering</strong> (Present)<br>
-    <a href="https://umaine.edu/chb/home/graduate-programs/" target="_blank" style="text-decoration: none; color: #555;">
-      University of Maine, Penobscot County
-    </a>
-  </li>
-  <li style="margin-bottom: 1em;">
-    🎓 <strong>M.Tech in Polymer Technology</strong>, 2022<br>
-    <a href="https://psrt.cusat.ac.in/" target="_blank" style="text-decoration: none; color: #555;">
-      PSRT, Cochin University of Science & Technology, Cochin, India
-    </a>
-  </li>
-  <li>
-    🎓 <strong>B.Tech in Polymer Engineering</strong>, 2020<br>
-    <a href="https://spst.mgu.ac.in/" target="_blank" style="text-decoration: none; color: #555;">
-      Mahathma Gandhi University, Kerala, India
-    </a>
-  </li>
-</ul>
+        🎓 <strong>Ph.D. in Chemical Engineering</strong> (Present)<br>
+        <a href="https://umaine.edu/chb/home/graduate-programs/" target="_blank" style="text-decoration: none; color: #555;">
+          University of Maine, Penobscot County
+        </a>
+      </li>
+      <li style="margin-bottom: 1em;">
+        🎓 <strong>M.Tech in Polymer Technology</strong>, 2022<br>
+        <a href="https://psrt.cusat.ac.in/" target="_blank" style="text-decoration: none; color: #555;">
+          PSRT, Cochin University of Science & Technology, Cochin, India
+        </a>
+      </li>
+      <li>
+        🎓 <strong>B.Tech in Polymer Engineering</strong>, 2020<br>
+        <a href="https://spst.mgu.ac.in/" target="_blank" style="text-decoration: none; color: #555;">
+          Mahathma Gandhi University, Kerala, India
+        </a>
+      </li>
+    </ul>
+  </div>
+
 </div>
 
 
