@@ -121,7 +121,8 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
 
   <!-- Publication 2 -->
   <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
-    <div style="font-weight: bold; font-size: 1.05em;"><strong>Flexible paper-based room-temperature acetone sensors with ultrafast regeneration<strong></div>
+    <div style="font-weight: bold; font-size: 1.05em;"><strong>Flexible paper-based room-temperature acetone sensors with ultrafast regeneration<strong>
+    </div>
     <div style="margin-top: 4px;">Davis, Disiya, Swathi Krishna Narayanan, <strong>Arya Ajeev</strong>, Jayashree Nair, Jithin Jeeji, Ananthu Vijayan, Midhun Viyyur Kuttyadi, Arun Nelliparambil Sathian, and Arul Kashmir Arulraj</div>
     <div style="font-style: italic; color: #555; margin-top: 4px;">Advanced Materials Technologies, 2022</div>
     <div style="margin-top: 8px;">
@@ -130,7 +131,8 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
   </div>
  <!-- Publication 3 -->
   <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
-    <div style="font-weight: bold; font-size: 1.05em;"><strong>From the synthesis of wearable polymer sensors to their potential for reuse and ultimate fate<strong></div>
+    <div style="font-weight: bold; font-size: 1.05em;"><strong>From the synthesis of wearable polymer sensors to their potential for reuse and ultimate fate<strong>
+    </div>
     <div style="margin-top: 4px;"><strong>Arya Ajeev</strong>, Theodore Warfle, Sara Maslaczynska-Salome, Saeideh Alipoori, Colton Duprey, and Evan K. Wujcik</div>
     <div style="font-style: italic; color: #555; margin-top: 4px;">Advanced Materials Technologies, 2025</div>
     <div style="margin-top: 8px;">
@@ -139,7 +141,8 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
   </div>
  <!-- Publication 4 -->
   <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
-    <div style="font-weight: bold; font-size: 1.05em;"><strong>A Recyclable PANI/PAAMPSA Nanocomposite with Repeatable, Rapid, Autonomous Self-Healing and Unprecedented Electro-Mechanical Properties<strong></div>
+    <div style="font-weight: bold; font-size: 1.05em;"><strong>A Recyclable PANI/PAAMPSA Nanocomposite with Repeatable, Rapid, Autonomous Self-Healing and Unprecedented Electro-Mechanical Properties<strong>
+    </div>
     <div style="margin-top: 4px;">colton Duprey, <strong>Arya Ajeev</strong>, Dajung Hong, Katherine Webb, Sarah Veres, George Chen, Emily Linn, Gina Lusvardi, Zhongqi Liu, Ruigang Wang, Sanggyu Yim, Zhanhu Guo, Zachary Farrell, Luke A. Baldwin, Yang Lu, Ju-Won Jeon,and Evan K. Wujcik</div>
    Accepted in <em>Advanced Composites and Hybrid Materials</em>, 2025
     <div style="margin-top: 8px;"> 
@@ -147,7 +150,8 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
   </div>
 <!-- Publication 5 -->
   <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
-    <div style="font-weight: bold; font-size: 1.05em;"> <strong>Effect of Protonating Phosphoric Acid-Based Dopants on the Electroconductive and Mechanical Properties of Polyaniline/Poly(2-acrylamido-2-methylpropane Sulfonic Acid<strong>) </div>
+    <div style="font-weight: bold; font-size: 1.05em;"> <strong>Effect of Protonating Phosphoric Acid-Based Dopants on the Electroconductive and Mechanical Properties of Polyaniline/Poly(2-acrylamido-2-methylpropane Sulfonic Acid)<strong> 
+    </div>
     <div style="margin-top: 4px;"><strong>Arya Ajeev</strong>, colton Duprey, and Evan K. Wujcik</div>
    Submitted in <em>ACS Applied Polymer Materials</em>, 2025
     <div style="margin-top: 8px;"> 
@@ -155,7 +159,8 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
   </div>
 <!-- Publication 6 -->
   <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
-    <div style="font-weight: bold; font-size: 1.05em;"> <strong>The Effect of Varying Whey Protein in Anti-bacterial Gelatin/Polyaniline Complexes Doped with Phytic Acid for Bio-compatible Bio-sensors<strong> ) </div>
+    <div style="font-weight: bold; font-size: 1.05em;"> <strong>The Effect of Varying Whey Protein in Anti-bacterial Gelatin/Polyaniline Complexes Doped with Phytic Acid for Bio-compatible Bio-sensors<strong>
+    </div>
     <div style="margin-top: 4px;"><strong>Arya Ajeev</strong>,Sara Maslaczynska-Salome,Theodore Warfle, Behrokh Shams, Colton Duprey and Evan K. Wujcik</div>
    Submitted in <em>Macromolecular Chemistry & Physics</em>, 2025
     <div style="margin-top: 8px;"> 
@@ -163,7 +168,8 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
   </div>
   <!-- Publication 7 -->
   <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
-    <div style="font-weight: bold; font-size: 1.05em;"> <strong>Sustainable and Reprocessable Carboxylic Acid-Doped Polyaniline Electroconductive Films with Rapid Environmental Degradation<strong> ) </div>
+    <div style="font-weight: bold; font-size: 1.05em;"> <strong>Sustainable and Reprocessable Carboxylic Acid-Doped Polyaniline Electroconductive Films with Rapid Environmental Degradation<strong> 
+    </div>
     <div style="margin-top: 4px;"><strong>Arya Ajeev</strong>,Theodore Warfle, and Evan K. Wujcik</div>
    Manuscript in preparation
     <div style="margin-top: 8px;"> 
