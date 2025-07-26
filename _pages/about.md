@@ -169,7 +169,7 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
     <div style="font-style: italic; color: #555; margin-top: 4px;">Submitted to <em>ACS Applied Polymer Materials</em>, 2025</div>
   </div>
 
-  <!-- Publication 6 -->
+    <!-- Publication 6 -->
   <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
     <div style="font-weight: bold; font-size: 1.05em;">
       The Effect of Varying Whey Protein in Anti-bacterial Gelatin/Polyaniline Complexes Doped with Phytic Acid for Bio-compatible Bio-sensors
