@@ -110,9 +110,9 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
 
   <!-- Publication 1 -->
   <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
-    <div style="font-weight: bold; font-size: 1.05em;">Emerging Frontiers in Human-Robot Interaction</div>
-    <div style="margin-top: 4px;">Farshad Safavi, <strong>Parthan Olikkal</strong>, Dingyi Pei, Sadia Kamal, Helen Meyerson, Varsha Penumalee, Ramana Vinjamuri</div>
-    <div style="font-style: italic; color: #555; margin-top: 4px;">Journal of Intelligent and Robotics System, 2024</div>
+    <div style="font-weight: bold; font-size: 1.05em;">Ultrahigh sensitive carbon‐based conducting rubbers for flexible and wearable human–machine intelligence sensing</div>
+    <div style="margin-top: 4px;"><strong>Ajeev, Arya</strong>, Javaregowda, Bharathkumar H and Ali, Ashik and Modak, Mrudul and Patil, Shreya and Khatua, Saumyakanta and Ramadoss, Marimuthu and Kothavade, Premkumar Anil and Arulraj, Arul Kashmir</div>
+    <div style="font-style: italic; color: #555; margin-top: 4px;">Advanced Materials Technologies, 2020</div>
     <div style="margin-top: 8px;">
       <a href="#" style="margin-right: 1rem; color: #007bff; text-decoration: none;">DOI</a>
       <a href="#" style="margin-right: 1rem; color: #007bff; text-decoration: none;">Cite</a>
