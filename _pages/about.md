@@ -11,7 +11,7 @@ sidebar:
 <h2>Biography</h2>
 <div style="font-size:0.9em;">
 <p>
-I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><strong>University of Maine, Penobscot County</strong></a>, advised by <a href="https://umaine.edu/chb/facultystaff/evan-k-wujcik/" target="_blank">Dr. Evan K Wujcik</a>. My research explores the structure–property relationships between small-molecule dopants and polyaniline, with a focus on how functional groups—such as sulfonic, phosphoric, and carboxylic acids—influence the electrical, mechanical, and self-healing properties of the resulting materials. In addition, I investigate their environmental stability through degradation studies, including UV, soil, and water degradation, to assess recyclability and end-of-life behavior.
+I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><strong>University of Maine, advised by <a href="https://umaine.edu/chb/facultystaff/evan-k-wujcik/" target="_blank">Dr. Evan K Wujcik</a>. My research explores the structure–property relationships between small-molecule dopants and polyaniline, with a focus on how functional groups—such as sulfonic, phosphoric, and carboxylic acids—influence the electrical, mechanical, and self-healing properties of the resulting materials. In addition, I investigate their environmental stability through degradation studies, including UV, soil, and water degradation, to assess recyclability and end-of-life behavior.
 </p>
 
 <a style="font-size: 0.9em;">
