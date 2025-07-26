@@ -67,30 +67,38 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
 ---
 <h2 id="projects">Projects</h2> 
 
-<h3 id="projects">Self-healing Wearable sensor</h3>  
+<!-- Wrapper for all projects -->
+<div style="display: flex; flex-direction: column; gap: 2rem;">
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;
-            border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; background: #fafafa; font-size: 0.9em;
-            transition: transform 0.2s ease-in-out; box-shadow: 0 0 0 transparent;"
-     onmouseover="this.style.transform='scale(1.015)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.1)'"
-     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 0 transparent'">
-
-
-  <!-- LEFT: Video -->
-  <div style="flex: 1 1 350px; min-width: 300px;">
-    <img src="/assets/video/Mitra_Mirroring.gif" alt="Gesture Control Demo" style="width: 100%; border-radius: 8px;">
+  <!-- Project 1 -->
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 1.5rem;">
+    <img src="your-image-url-1.jpg" alt="Latex Rubber Military" style="width: 150px; height: auto; border-radius: 8px;">
+    <div style="flex: 1;">
+      <h4 style="margin: 0;">Latex Rubber for Military Applications</h4>
+      <p style="margin: 0.5em 0 0;">Developed advanced rubber composites tailored for extreme environmental durability, flexibility, and thermal resilience, aimed at defense-grade personal protection and equipment enhancement.</p>
+    </div>
   </div>
 
-  <!-- RIGHT: Text -->
-  <div style="flex: 2 1 400px; min-width: 250px; font-size: 0.9em;">
-    <p>
-      This project demonstrates real-time synergy-based control of a humanoid robot (Mitra) using reconstructed hand gestures.
-      Using a single RGB camera and the MediaPipe framework, 33 static hand gestures were captured and processed into joint angular velocities.
-      Dimensionality reduction techniques helped extract key kinematic synergies, which were used to reconstruct hand postures with 95.7% accuracy.
-    </p>
-    <p>
-      The resulting synergy-driven control commands were mapped to Mitra’s actuators in real time, showing promise for intuitive human-robot collaboration in rehabilitation and assistive robotics.
-    </p>
+  <!-- Project 2 -->
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 1.5rem;">
+    <img src="your-image-url-2.jpg" alt="Latex Rubber General" style="width: 150px; height: auto; border-radius: 8px;">
+    <div style="flex: 1;">
+      <h4 style="margin: 0;">Latex Rubber for General Applications</h4>
+      <p style="margin: 0.5em 0 0;">Engineered cost-effective rubber formulations suitable for healthcare, consumer goods, and sportswear, focusing on stretchability, water resistance, and mechanical strength.</p>
+    </div>
+  </div>
+
+  <!-- Project 3 -->
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 1.5rem;">
+    <img src="your-image-url-3.jpg" alt="Self-healing Sensors" style="width: 150px; height: auto; border-radius: 8px;">
+    <div style="flex: 1;">
+      <h4 style="margin: 0;">Self-Healing Wearable Sensors</h4>
+      <p style="margin: 0.5em 0 0;">Designed and characterized polyaniline-based self-healing sensors for wearable electronics with high conductivity, flexibility, and water degradability for sustainable technology.</p>
+    </div>
+  </div>
+
+</div>
+
 
   </div>
 
