@@ -73,6 +73,8 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
 
   <!-- Project 1 -->
   <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 1.5rem;">
+    <img src="assets/images/.jpg" alt="Description of image" style="width: 150px; height: auto; border-radius: 8px;">
+
     <img src="your-image-url-1.jpg" alt="Latex Rubber Military" style="width: 150px; height: auto; border-radius: 8px;">
     <div style="flex: 1;">
       <h4 style="margin: 0;">Latex Rubber for Military Applications</h4>
