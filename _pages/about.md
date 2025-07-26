@@ -129,6 +129,7 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
      <a href="https://doi.org/10.1021/acsami.2c21712" target="_blank" style="margin-right: 1rem; color: #007bff; text-decoration: none;">DOI</a>
     </div>
   </div>
+  
  <!-- Publication 3 -->
   <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
     <div style="font-weight: bold; font-size: 1.05em;"><strong>From the synthesis of wearable polymer sensors to their potential for reuse and ultimate fate</strong>
@@ -139,6 +140,8 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
      <a href="https://doi.org/10.1039/D5SC01634G" target="_blank" style="margin-right: 1rem; color: #007bff; text-decoration: none;">DOI</a>
     </div>
   </div>
+  
+  
  <!-- Publication 4 -->
   <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
     <div style="font-weight: bold; font-size: 1.05em;"><strong>A Recyclable PANI/PAAMPSA Nanocomposite with Repeatable, Rapid, Autonomous Self-Healing and Unprecedented Electro-Mechanical Properties</strong>
@@ -148,6 +151,8 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
     <div style="margin-top: 8px;"> 
     </div>
   </div>
+
+  
 <!-- Publication 5 -->
   <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
     <div style="font-weight: bold; font-size: 1.05em;"> <strong>Effect of Protonating Phosphoric Acid-Based Dopants on the Electroconductive and Mechanical Properties of Polyaniline/Poly(2-acrylamido-2-methylpropane Sulfonic Acid)</strong> 
@@ -157,6 +162,8 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
     <div style="margin-top: 8px;"> 
     </div>
   </div>
+
+  
 <!-- Publication 6 -->
   <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
     <div style="font-weight: bold; font-size: 1.05em;"> <strong>The Effect of Varying Whey Protein in Anti-bacterial Gelatin/Polyaniline Complexes Doped with Phytic Acid for Bio-compatible Bio-sensors</strong>
@@ -165,6 +172,8 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
     <div style="margin-top: 8px;"> 
     </div>
   </div>
+
+    
   <!-- Publication 7 -->
   <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
     <div style="font-weight: bold; font-size: 1.05em;"> <strong>Sustainable and Reprocessable Carboxylic Acid-Doped Polyaniline Electroconductive Films with Rapid Environmental Degradation</strong> 
