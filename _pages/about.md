@@ -38,26 +38,31 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
 <div style="flex: 1; min-width: 250px;">
   <h3>Education</h3>
   <ul>
-    <li>🎓 <strong>Ph.D. in Chemical Engineering</strong> (Present)<br>
-        <span style="font-size: 0.8em;">
-        <a href="https://umaine.edu/chb/home/graduate-programs/" target="_blank">University of Maine, Penobscot County
-        </span></li>
-    <li>🎓 <strong>M.Tech in Polymer Technology</strong>, 2022<br>
-        <span style="font-size: 0.8em;">
-        <a href="https://psrt.cusat.ac.in/" target="_blank">PSRT, Cochin University of Science & Technology, Cochin, India</a>
-        </span></li>
-    <li>🎓 <strong>B.Tech in Polymer Engineering</strong>, 2020<br>
-        <span style="font-size:0.8em;">
-       <a href="https://spst.mgu.ac.in/" target="_blank">Mahathma Gandhi University, Kerala, India
-        </span></li>
-  </ul>
+    🎓 <strong>Ph.D. in Chemical Engineering</strong> (Present)<br>
+    <a href="https://umaine.edu/chb/home/graduate-programs/" target="_blank" style="text-decoration: none; color: #555;">
+      University of Maine, Penobscot County
+    </a>
+  </li>
+  <li style="margin-bottom: 1em;">
+    🎓 <strong>M.Tech in Polymer Technology</strong>, 2022<br>
+    <a href="https://psrt.cusat.ac.in/" target="_blank" style="text-decoration: none; color: #555;">
+      PSRT, Cochin University of Science & Technology, Cochin, India
+    </a>
+  </li>
+  <li>
+    🎓 <strong>B.Tech in Polymer Engineering</strong>, 2020<br>
+    <a href="https://spst.mgu.ac.in/" target="_blank" style="text-decoration: none; color: #555;">
+      Mahathma Gandhi University, Kerala, India
+    </a>
+  </li>
+</ul>
 </div>
 
 
 ---
 <h2 id="projects">Projects</h2> 
 
-<h3 id="projects">Humanoid Control using RGB camera</h3>  
+<h3 id="projects">Self-healing Wearable sensor</h3>  
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;
             border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; background: #fafafa; font-size: 0.9em;
