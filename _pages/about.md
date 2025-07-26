@@ -76,7 +76,7 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
     <img src="assets/images/military application.jpg" alt="Description of image" style="width: 300px; height: auto; border-radius: 8px;">
     <div style="flex: 1;">
       <h4 style="margin: 0;">Latex Rubber for Military Applications</h4>
-      <p style="margin: 0.5em 0 0;">Developed advanced rubber composites tailored for extreme environmental durability, flexibility, and thermal resilience, aimed at defense-grade personal protection and equipment enhancement.</p>
+      <p style="margin: 0.5em 0 0;">A simple, cost-effective, and scalable methodology was adopted to fabricate the flexible and highly sensitive strain sensors using carbon black and latex rubbers (LR). The LR-based strain sensor demonstrates excellent flexibility, fast response (≈600 ms), ultra-high sensitivity (maximum gauge factor of 1.2 × 10^4 at 250% strain), and long-term stability over 1000 cycles. The LR-based strain sensors are sensitive to monitor subtle human motions such as heart pulse rate and voice recognition along with high-strain human joint operations. Further, a smart glove-based sensor module made of LR strain bands with an Arduino reader for the human–machine intelligence device for non-verbal communication in military applications is demonstrated.</p>
     </div>
   </div>
 
