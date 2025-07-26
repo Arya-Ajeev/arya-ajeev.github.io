@@ -49,7 +49,7 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
       <li style="margin-bottom: 1em;">
         🎓 <strong>M.Tech in Polymer Technology</strong>, 2022<br>
         <a href="https://psrt.cusat.ac.in/" target="_blank" style="text-decoration: none; color: blue;">
-          PSRT, Cochin University of Science & Technology, Cochin, India
+          PSRT, Cochin University of Science & Technology, Kerala, India
         </a>
       </li>
       <li>
