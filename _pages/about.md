@@ -144,8 +144,30 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
     <div style="margin-top: 8px;"> 
     </div>
   </div>
-
-
+<!-- Publication 5 -->
+  <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
+    <div style="font-weight: bold; font-size: 1.05em;">) Effect of Protonating Phosphoric Acid-Based Dopants on the Electroconductive and Mechanical Properties of Polyaniline/Poly(2-acrylamido-2-methylpropane Sulfonic Acid) </div>
+    <div style="margin-top: 4px;"><strong>Arya Ajeev</strong>, colton Duprey, and Evan K. Wujcik</div>
+   Submitted in <em>ACS Applied Polymer Materials</em>, 2025
+    <div style="margin-top: 8px;"> 
+    </div>
+  </div>
+<!-- Publication 6 -->
+  <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
+    <div style="font-weight: bold; font-size: 1.05em;">) The Effect of Varying Whey Protein in Anti-bacterial Gelatin/Polyaniline Complexes Doped with Phytic Acid for Bio-compatible Bio-sensors ) </div>
+    <div style="margin-top: 4px;"><strong>Arya Ajeev</strong>,Sara Maslaczynska-Salome,Theodore Warfle, Behrokh Shams, Colton Duprey and Evan K. Wujcik</div>
+   Submitted in <em>Macromolecular Chemistry & Physics</em>, 2025
+    <div style="margin-top: 8px;"> 
+    </div>
+  </div>
+  <!-- Publication 6 -->
+  <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
+    <div style="font-weight: bold; font-size: 1.05em;">) Sustainable and Reprocessable Carboxylic Acid-Doped Polyaniline Electroconductive Films with Rapid Environmental Degradation ) </div>
+    <div style="margin-top: 4px;"><strong>Arya Ajeev</strong>,Theodore Warfle, and Evan K. Wujcik</div>
+   Manuscript in preparation
+    <div style="margin-top: 8px;"> 
+    </div>
+  </div>
 ---
 
 
