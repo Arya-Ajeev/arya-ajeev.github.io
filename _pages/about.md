@@ -187,12 +187,10 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
     <div style="font-style: italic; color: #555; margin-top: 4px;">Manuscript in preparation</div>
   </div>
 
-</div>
 
 ---
 
 
-</div>
 
 <script>
 function openBibModal(bibURL, modalID) {
