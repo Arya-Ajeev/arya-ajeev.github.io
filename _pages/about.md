@@ -73,7 +73,7 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
 
   <!-- Project 1 -->
   <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 1.5rem;">
-    <img src="assets/images/military application.jpg" alt="Description of image" style="width: 150px; height: auto; border-radius: 8px;">
+    <img src="assets/images/military application.jpg" alt="Description of image" style="width: 300px; height: auto; border-radius: 8px;">
     <div style="flex: 1;">
       <h4 style="margin: 0;">Latex Rubber for Military Applications</h4>
       <p style="margin: 0.5em 0 0;">Developed advanced rubber composites tailored for extreme environmental durability, flexibility, and thermal resilience, aimed at defense-grade personal protection and equipment enhancement.</p>
