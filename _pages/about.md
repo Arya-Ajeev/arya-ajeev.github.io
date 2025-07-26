@@ -62,7 +62,9 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
   </div>
 
 </div>
+</a>
 
+<hr>
 
 
 <h2 id="projects">Projects</h2> 
