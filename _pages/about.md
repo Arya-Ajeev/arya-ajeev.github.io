@@ -114,9 +114,7 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
     <div style="margin-top: 4px;"><strong>Ajeev, Arya</strong>, Javaregowda, Bharathkumar H and Ali, Ashik and Modak, Mrudul and Patil, Shreya and Khatua, Saumyakanta and Ramadoss, Marimuthu and Kothavade, Premkumar Anil and Arulraj, Arul Kashmir</div>
     <div style="font-style: italic; color: #555; margin-top: 4px;">Advanced Materials Technologies, 2020</div>
     <div style="margin-top: 8px;">
-      <a href="#" style="margin-right: 1rem; color: #007bff; text-decoration: none;">DOI</a>
-      <a href="#" style="margin-right: 1rem; color: #007bff; text-decoration: none;">Cite</a>
-      <a href="#" style="color: #007bff; text-decoration: none;">Code</a>
+     <a href="https://doi.org/10.1002/admt.202000690" target="_blank" style="margin-right: 1rem; color: #007bff; text-decoration: none;">DOI</a>
     </div>
   </div>
 
