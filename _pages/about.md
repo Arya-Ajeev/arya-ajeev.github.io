@@ -103,125 +103,39 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
 
   </div>
 
-  
-<h2 id="publications">Publications</h2>
+  <h3><strong>Publications</strong></h3>
 
-<a href="/publication/olikkal2024robio" style="text-decoration: none; color: inherit;" target="_blank">
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;
-            border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; background: #fafafa; font-size: 0.9em;
-            transition: transform 0.2s ease-in-out; box-shadow: 0 0 0 transparent;"
-     onmouseover="this.style.transform='scale(1.015)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.1)'"
-     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 0 transparent'">
+<!-- Wrapper for all publication cards -->
+<div style="display: flex; flex-direction: column; gap: 1.5rem; font-family: sans-serif;">
 
-  <!-- LEFT: Image -->
-  <div style="flex: 1 1 300px; min-width: 250px;">
-    <img src="/assets/images/EEG_EMG_Robot.png" alt="Paper teaser" style="width: 100%; border-radius: 8px;">
-        <p style="color: #555; font-style:italic; font-size:0.75em">
-    Key Areas - Multimodal Signal Processing, Deep Learning (Transformers), Robotics & Human-Robot Interaction
-    </p>
-  </div>
-
-  <!-- RIGHT: Text -->
-  <div style="flex: 2 1 400px; min-width: 250px; font-size:0.8em">
-
-    <p style="font-size: 0.9em; color: #555;">
-      <strong>Parthan Olikkal</strong>, Branesh M. Pillai, Jackrit Suthakorn, Habib Ali, Ramana Vinjamuri  
-      <br>2024 – <em>IEEE Robotics and Biomimetics</em>
-    </p>
-
-    <h3 style="margin-top: 0;">A Hybrid EEG-EMG Framework for Humanoid Control using Deep Learning Transformers</h3>
-
-    <p style="color: #555;font-style:0.8em">
-      This study presents a Transformer-based deep learning approach that integrates EEG and EMG signals to enhance upper limb motor control for rehabilitation. Ten able-bodied subjects performed center-out tasks of varying complexity, with simultaneous EEG, EMG, and 2D kinematic data collection. The fused signals enabled the model to achieve 87.27% accuracy across all levels and control a humanoid robot to replicate movements. The results demonstrate the effectiveness of EEG-EMG fusion in improving precision and performance in BCI-driven assistive and neurorehabilitation technologies.
-    </p>
----
-
-<!-- Button Group -->
-<div class="btn-links" style="margin-top: 1rem; font-size:1em;">
-  <button onclick="openBibModal('/assets/bib/Olikkal_2024_ROBIO.bib', 'bibModal-robio2024')" 
-          class="btn btn-outline-primary btn-page-header btn-sm">Cite</button>
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1109/ROBIO64047.2024.10907308" target="_blank" rel="noopener">DOI</a>
-</div>
-
-<!-- Modal -->
-<div id="bibModal-robio2024" style="display:none; position: fixed; z-index: 9999; left: 0; top: 0; width: 100%; height: 100%;
-     background-color: rgba(0,0,0,0.5); text-align: center;">
-  <div style="background: #fff; margin: 10% auto; padding: 20px; border-radius: 10px; width: 90%; max-width: 700px; position: relative;">
-    <h3>BibTeX Citation</h3>
-    <textarea id="bibtexText-robio2024" readonly style="width: 100%; height: 300px; padding: 10px; font-family: monospace;
-              border: 1px solid #ccc; border-radius: 6px; color: black; background-color: white">Loading...</textarea>
-    <div style="margin-top: 1rem;">
-      <button onclick="copyBibTex('bibtexText-robio2024')" class="btn btn-sm" style="margin-right: 10px;">📋 Copy</button>
-      <a href="/assets/bib/Olikkal_2024_ROBIO.bib" download class="btn btn-sm" style="margin-right: 10px;">⬇️ Download</a>
-      <button onclick="document.getElementById('bibModal-robio2024').style.display='none'" class="btn btn-sm">❌ Close</button>
+  <!-- Publication 1 -->
+  <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
+    <div style="font-weight: bold; font-size: 1.05em;">Emerging Frontiers in Human-Robot Interaction</div>
+    <div style="margin-top: 4px;">Farshad Safavi, <strong>Parthan Olikkal</strong>, Dingyi Pei, Sadia Kamal, Helen Meyerson, Varsha Penumalee, Ramana Vinjamuri</div>
+    <div style="font-style: italic; color: #555; margin-top: 4px;">Journal of Intelligent and Robotics System, 2024</div>
+    <div style="margin-top: 8px;">
+      <a href="#" style="margin-right: 1rem; color: #007bff; text-decoration: none;">DOI</a>
+      <a href="#" style="margin-right: 1rem; color: #007bff; text-decoration: none;">Cite</a>
+      <a href="#" style="color: #007bff; text-decoration: none;">Code</a>
     </div>
   </div>
-</div>
 
-  </div>
-</div>
-
-
-<a href="/publication/olikkal2024robio" style="text-decoration: none; color: inherit;" target="_blank">
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; margin-bottom: 2rem;
-            border: 1px solid #e0e0e0; border-radius: 8px; padding: 1.5rem; background: #fafafa; font-size: 0.9em;
-            transition: transform 0.2s ease-in-out; box-shadow: 0 0 0 transparent;"
-     onmouseover="this.style.transform='scale(1.015)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.1)'"
-     onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 0 transparent'">
-
-  <!-- LEFT: Image -->
-  <div style="flex: 1 1 300px; min-width: 250px;">
-    <img src="/assets/images/Biomimetic_Robot.jpg" alt="Paper teaser" style="width: 100%; border-radius: 8px;">
-    <p style="color: #555; font-style:italic; font-size:0.75em">
-    Key Areas - Computer Vision, Kinematic Synergy, Robotics & Human-Robot Interaction
-    </p>
-  </div>
-
-  <!-- RIGHT: Text -->
-  <div style="flex: 2 1 400px; min-width: 250px; font-size:0.8em">
-
-    <p style="font-size: 0.9em; color: #555;">
-      <strong>Parthan Olikkal</strong>, Dingyi Pei, Bharat Kashyap Karri, Ashwin Satyanarayana, Nayan M. Kakoty, Ramana Vinjamuri  
-      <br>2024 – <em>Frontiers Human Neuroscience</em>
-    </p>
-
-    <h3 style="margin-top: 0;">Biomimetic learning of hand gestures in a humanoid robot</h3>
-
-    <p style="color: #555;font-style:0.8em">
-      This study explores the use of kinematic synergies—low-dimensional movement patterns—for real-time humanoid robot hand gesture replication. Using MediaPipe and a single RGB camera, 33 static hand gestures were recorded and reduced to joint angular velocities. Dimensionality reduction identified synergies explaining 98% of movement variance. These synergies enabled accurate reconstruction (95.7% accuracy) of gestures using convex optimization, which were then mirrored by the humanoid robot Mitra. The findings highlight the effectiveness of synergy-based control for natural, efficient human-robot interaction and potential applications in rehabilitation and prosthetics.
-    </p>
-
-<!-- Button Group -->
-<div class="btn-links" style="margin-top: 1rem; font-size:1em;">
-  <button onclick="openBibModal('/assets/bib/Olikkal2024Biomimetic.bib', 'bibModal-biomimetic2024')" 
-          class="btn btn-outline-primary btn-page-header btn-sm">Cite</button>
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3389/fnhum.2024.1391531" target="_blank" rel="noopener">DOI</a>
-</div>
-
-<!-- Modal -->
-<div id="bibModal-biomimetic2024" style="display:none; position: fixed; z-index: 9999; left: 0; top: 0; width: 100%; height: 100%;
-     background-color: rgba(0,0,0,0.5); text-align: center;">
-  <div style="background: #fff; margin: 10% auto; padding: 20px; border-radius: 10px; width: 90%; max-width: 700px; position: relative;">
-    <h3>BibTeX Citation</h3>
-    <textarea id="bibtexText-biomimetic2024" readonly style="width: 100%; height: 300px; padding: 10px; font-family: monospace;
-              border: 1px solid #ccc; border-radius: 6px; color: black; background-color: white">Loading...</textarea>
-    <div style="margin-top: 1rem;">
-      <button onclick="copyBibTex('bibtexText-biomimetic2024')" class="btn btn-sm" style="margin-right: 10px;">📋 Copy</button>
-      <a href="/assets/bib/Olikkal2024Biomimetic.bib" download class="btn btn-sm" style="margin-right: 10px;">⬇️ Download</a>
-      <button onclick="document.getElementById('bibModal-biomimetic2024').style.display='none'" class="btn btn-sm">❌ Close</button>
+  <!-- Publication 2 -->
+  <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
+    <div style="font-weight: bold; font-size: 1.05em;">Enhancing prosthetic hand control: A synergistic multi-channel electroencephalogram</div>
+    <div style="margin-top: 4px;">Pooya Chanu Maibam, Dingyi Pei, <strong>Parthan Olikkal</strong>, Ramana Kumar Vinjamuri, Nayan M Kakoty</div>
+    <div style="font-style: italic; color: #555; margin-top: 4px;">Wearable Technologies, 2022</div>
+    <div style="margin-top: 8px;">
+      <a href="#" style="margin-right: 1rem; color: #007bff; text-decoration: none;">DOI</a>
+      <a href="#" style="margin-right: 1rem; color: #007bff; text-decoration: none;">Cite</a>
+      <a href="#" style="color: #007bff; text-decoration: none;">Code</a>
     </div>
   </div>
+
+  <!-- Repeat for more publications -->
 </div>
 
-  </div>
-</div>
 
-
-<div style="text-align: right; margin-top: 2rem; margin-bottom: 1rem;">
-  <a href="/publication/" style="font-weight: bold; text-decoration: underline; font-size: 1em; color: #007acc;">
-    → See full publications
-  </a>
-</div>
 ---
 
 
