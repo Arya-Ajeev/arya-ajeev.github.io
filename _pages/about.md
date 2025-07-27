@@ -100,7 +100,6 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
 
 </div>
 
-<h3><strong>Conferences</strong></h3>
 
 <section id="conferences" style="padding: 2rem 1rem;">
   <h2 style="margin-bottom: 1.5rem;">Conference Attended</h2>
