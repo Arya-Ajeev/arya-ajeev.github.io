@@ -106,20 +106,27 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
 
   <!-- Conference 1 -->
   <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
-    <h4 style="margin: 0;">Gordon Research Conference (GRC) Polymers,Mount Holyoke College, Massachussets </h4>
+    <h4 style="margin: 0;">Gordon Research Conference (GRC) Polymers, 2025, Mount Holyoke College, Massachussets </h4>
     <p style="margin: 0.5em 0 0;">
-      Presented my work on <strong>"Self-Healing Conductive Polymers for Wearable Electronics"</strong> under the Materials Chemistry division. Highlighted self-repairing capabilities and degradability of PANI/PAAMPSA systems.
+      Presented a poster on "Effect of protonating phosphoric acid-based dopants on the electroconductive and mechanical properties of polyaniline/poly(2-acrylamido-2-methylpropane sulfonic acid) complexes". 
     </p>
   </div>
 
   <!-- Conference 2 -->
   <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
-    <h4 style="margin: 0;">SWE Annual Conference 2024, New Orleans, LA</h4>
+    <h4 style="margin: 0;">Material Research Society (MRS) 2024, Boston</h4>
     <p style="margin: 0.5em 0 0;">
-      Participated in a panel and showcased ongoing work on <strong>biodegradable polymer sensors</strong>. Engaged with a wide network of women in STEM and industry professionals.
+      Presented a poster titled "Role of small molecule dopants on the synthesis, structure, electro-mechanical, self-healing properties and working relationships of PANI/PAAMPSA systems" in the SF03: Materials for Robotics Symposium. 
     </p>
   </div>
-
+  
+!-- Conference 3 -->
+  <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
+    <h4 style="margin: 0;">American Institute of Chemical Engineers (AIChE) 2024, Boston</h4>
+    <p style="margin: 0.5em 0 0;">
+      Presented a talk and a poster titled "To Investigate the Effect of Small Molecule Dopants on the Synthesis/ Electrical /Mechanical/Electro-Mechanical/Self-Healing Properties of PANI/Paampsa System" in the Charged and Ion-Containing Polymers III: Membranes and Other Applications and Materials Engineering & Sciences (08A - Polymers) sessions
+    </p>
+  </div>
   <!-- Add more conferences as needed -->
 </div>
 
