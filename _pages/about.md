@@ -102,31 +102,25 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
 
 <h3><strong>Conferences Attended</strong></h3>
 
-<div style="display: flex; flex-direction: column; gap: 2rem; font-family: sans-serif;">
+<div style="display: flex; flex-direction: column; gap: 1.5rem; font-family: sans-serif; font-size: 0.9em;">
 
   <!-- Conference 1 -->
-  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 1.5rem;">
-    <img src="assets/images/acs2025.jpg" alt="ACS Fall 2025 Presentation" style="width: 250px; height: auto; border-radius: 8px;">
-    <div style="flex: 1;">
-      <h4 style="margin: 0;">ACS Fall 2025 Conference, San Diego, CA</h4>
-      <p style="margin: 0.5em 0 0;">
-        Presented my work on <strong>"Self-Healing Conductive Polymers for Wearable Electronics"</strong> under the Materials Chemistry division. Highlighted self-repairing capabilities and degradability of PANI/PAAMPSA systems.
-      </p>
-    </div>
+  <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
+    <h4 style="margin: 0;">Gordon Research Conference (GRC) Polymers,Mount Holyoke College, Massachussets </h4>
+    <p style="margin: 0.5em 0 0;">
+      Presented my work on <strong>"Self-Healing Conductive Polymers for Wearable Electronics"</strong> under the Materials Chemistry division. Highlighted self-repairing capabilities and degradability of PANI/PAAMPSA systems.
+    </p>
   </div>
 
   <!-- Conference 2 -->
-  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 1.5rem;">
-    <img src="assets/images/swe2024.jpg" alt="SWE New Orleans" style="width: 250px; height: auto; border-radius: 8px;">
-    <div style="flex: 1;">
-      <h4 style="margin: 0;">SWE Annual Conference 2024, New Orleans, LA</h4>
-      <p style="margin: 0.5em 0 0;">
-        Participated in a panel and showcased ongoing work on <strong>biodegradable polymer sensors</strong>. Engaged with a wide network of women in STEM and industry professionals.
-      </p>
-    </div>
+  <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
+    <h4 style="margin: 0;">SWE Annual Conference 2024, New Orleans, LA</h4>
+    <p style="margin: 0.5em 0 0;">
+      Participated in a panel and showcased ongoing work on <strong>biodegradable polymer sensors</strong>. Engaged with a wide network of women in STEM and industry professionals.
+    </p>
   </div>
 
-  <!-- Add more conferences below as needed -->
+  <!-- Add more conferences as needed -->
 </div>
 
   </div>
