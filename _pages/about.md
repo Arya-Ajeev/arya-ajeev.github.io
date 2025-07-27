@@ -123,7 +123,7 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
   
 <!-- Conference 3 -->
   <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
-    <h4 style="margin: 0;">American Institute of Chemical Engineers (AIChE) 2024, Boston</h4>
+    <h4 style="margin: 0;">American Institute of Chemical Engineers (AIChE) 2024, San Diego, CA. </h4>
     <p style="margin: 0.5em 0 0;">
       Presented a talk and a poster titled "To Investigate the Effect of Small Molecule Dopants on the Synthesis/ Electrical /Mechanical/Electro-Mechanical/Self-Healing Properties of PANI/Paampsa System" in the Charged and Ion-Containing Polymers III: Membranes and Other Applications and Materials Engineering & Sciences (08A - Polymers) sessions
     </p>
@@ -131,11 +131,68 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
 
   <!-- Conference 4 -->
   <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
-    <h4 style="margin: 0;">Gordon Research Conference (GRC) Polymers, 2025, Mount Holyoke College, Massachussets </h4>
+    <h4 style="margin: 0;">Material Research Society (MRS) 2023, Boston </h4>
     <p style="margin: 0.5em 0 0;">
-      Presented a poster on "Effect of protonating phosphoric acid-based dopants on the electroconductive and mechanical properties of polyaniline/poly(2-acrylamido-2-methylpropane sulfonic acid) complexes". 
+      Presented a poster on "The Investigation of the Effects of Small Molecule Dopants on a PAAMPSA/PANI System", in the EN09: Innovations in Materials and Processes for Printed, Flexible and Stretchable Energy-autonomous Sensing Systems, symposium
     </p>
   </div>
+
+    <!-- Conference 5 -->
+  <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
+    <h4 style="margin: 0;">American Institute of Chemical Engineers (AIChE) 2023, Orlando, FL </h4>
+    <p style="margin: 0.5em 0 0;">
+      Presented a paper and poster on "The Effect of Small Molecule Acids on a Paampsa-PANI System", in the Charged and Ion-Containing Polymers: General Topics and Materials Engineering & Sciences (08A - Polymers)
+    </p>
+  </div>
+  
+  <!-- Conference 6 -->
+  <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
+    <h4 style="margin: 0;">94th New England Complex Fluids Workshop at the University of Rhode Island, 2022, RI </h4>
+    <p style="margin: 0.5em 0 0;">
+      Presented a soundbite on "The Effect of Small Molecule Acids on a Paampsa-PANI System", in the Charged and Ion-Containing Polymers: General Topics and Materials Engineering & Sciences (08A - Polymers)
+    </p>
+    
+  </div>
+   <!-- Conference 7 -->
+  <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
+    <h4 style="margin: 0;">International conference on Sensor Technology World Sensor Congress (WSC-2022), Thrissur, India </h4>
+    <p style="margin: 0.5em 0 0;">
+      Delivered a talk on "Flexible paper-based room-temperature acetone sensors with ultrafast regeneration"
+    </p>
+  </div>
+
+    <!-- Conference 8 -->
+  <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
+    <h4 style="margin: 0;"> International conference on Multifunctional Electronic Materials & Processing (MEMP-2021), Thrissur, India </h4>
+    <p style="margin: 0.5em 0 0;">
+      Delivered a talk on "Ultrahigh sensitive carbon‐based conducting rubbers for flexible and wearable human–machine intelligence sensing"
+    </p>
+  </div>
+
+ <!-- Conference 9 -->
+  <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
+    <h4 style="margin: 0;">‘Advances in Polymer Technology’ (APT-21), Thrissur, India </h4>
+    <p style="margin: 0.5em 0 0;">
+      Delivered a talk on "Flexible paper-based room-temperature acetone sensors with ultrafast regeneration"
+    </p>
+  </div>
+
+  <!-- Conference 10 -->
+  <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
+    <h4 style="margin: 0;">Raman memorial conference, Pune University (RMC-20), Pune, India </h4>
+    <p style="margin: 0.5em 0 0;">
+      Delivered a talk on "Flexible paper-based room-temperature acetone sensors with ultrafast regeneration"
+    </p>
+  </div>
+
+<!-- Conference 10 -->
+  <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
+    <h4 style="margin: 0;">National Webinar on Polymers - A Century of Advancement" 2020, India </h4>
+    <p style="margin: 0.5em 0 0;">
+      Delivered a talk on "Flexible paper-based room-temperature acetone sensors with ultrafast regeneration"
+    </p>
+  </div>
+
   
   <!-- Add more conferences as needed -->
 </div>
