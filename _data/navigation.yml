@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /
   - title: "Conferences"
-    url: "#conferences"  
+    url: "#Conferences"  
   - title: "Publications"
     url: "#publications"
   - title: "Projects"
