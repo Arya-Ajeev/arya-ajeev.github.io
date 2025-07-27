@@ -102,7 +102,7 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
 
 
 <section id="conferences" style="padding: 2rem 1rem;">
-  <h2 style="margin-bottom: 1.5rem;">Conference Attended</h2>
+  <h2 style="margin-bottom: 1.5rem;">Conferences Attended</h2>
 
   <!-- Conference 1 -->
   <div style="border: 1px solid #d3d3d3; padding: 1rem; border-radius: 6px; background: linear-gradient(to right, #f5f5f5, #e0e0e0); margin-bottom: 1rem;">
