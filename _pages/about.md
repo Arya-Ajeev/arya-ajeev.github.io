@@ -104,13 +104,14 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
 
 <div style="display: flex; flex-direction: column; gap: 1.5rem; font-family: sans-serif; font-size: 0.9em;">
 
-  <!-- Conference 1 -->
-  <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
-    <h4 style="margin: 0;">Gordon Research Conference (GRC) Polymers, 2025, Mount Holyoke College, Massachussets </h4>
-    <p style="margin: 0.5em 0 0;">
-      Presented a poster on "Effect of protonating phosphoric acid-based dopants on the electroconductive and mechanical properties of polyaniline/poly(2-acrylamido-2-methylpropane sulfonic acid) complexes". 
-    </p>
-  </div>
+<!-- Conference 1 -->
+<div style="border: 1px solid #cce0f5; padding: 1rem; border-radius: 6px; background: linear-gradient(to right, #e6f2ff, #ccf2ff);">
+  <h4 style="margin: 0;">Gordon Research Conference (GRC) Polymers, 2025, Mount Holyoke College, Massachusetts</h4>
+  <p style="margin: 0.5em 0 0;">
+    Presented a poster on <strong>"Effect of protonating phosphoric acid-based dopants on the electroconductive and mechanical properties of polyaniline/poly(2-acrylamido-2-methylpropane sulfonic acid) complexes"</strong>.
+  </p>
+</div>
+
 
   <!-- Conference 2 -->
   <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
