@@ -174,8 +174,6 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
 
 
   
-  <!-- Add more conferences as needed -->
-</div>
 
   </div>
 <h3><strong>Publications</strong></h3>
