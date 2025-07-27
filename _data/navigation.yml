@@ -1,6 +1,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Conferences"
+    url: "#Conferences"  
   - title: "Publications"
     url: "#publications"
   - title: "Projects"
