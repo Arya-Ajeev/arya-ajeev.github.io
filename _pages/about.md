@@ -120,13 +120,22 @@ I am a Ph.D. Candidate at the <a href="https://umaine.edu/" target="_blank"><str
     </p>
   </div>
   
-!-- Conference 3 -->
+<!-- Conference 3 -->
   <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
     <h4 style="margin: 0;">American Institute of Chemical Engineers (AIChE) 2024, Boston</h4>
     <p style="margin: 0.5em 0 0;">
       Presented a talk and a poster titled "To Investigate the Effect of Small Molecule Dopants on the Synthesis/ Electrical /Mechanical/Electro-Mechanical/Self-Healing Properties of PANI/Paampsa System" in the Charged and Ion-Containing Polymers III: Membranes and Other Applications and Materials Engineering & Sciences (08A - Polymers) sessions
     </p>
   </div>
+
+  <!-- Conference 4 -->
+  <div style="border: 1px solid #e0e0e0; padding: 1rem; border-radius: 6px; background-color: #fff;">
+    <h4 style="margin: 0;">Gordon Research Conference (GRC) Polymers, 2025, Mount Holyoke College, Massachussets </h4>
+    <p style="margin: 0.5em 0 0;">
+      Presented a poster on "Effect of protonating phosphoric acid-based dopants on the electroconductive and mechanical properties of polyaniline/poly(2-acrylamido-2-methylpropane sulfonic acid) complexes". 
+    </p>
+  </div>
+  
   <!-- Add more conferences as needed -->
 </div>
 
